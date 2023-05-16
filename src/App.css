@@ -1,0 +1,6 @@
+.required {
+    color: red;
+}
+.error input {
+    border-color: red !important;
+  }
